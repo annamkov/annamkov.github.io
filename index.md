@@ -17,7 +17,7 @@ Winnipeg, MB, Canada
 ## Education
 **B. Sc. Bachelor of Computer Science, University of Manitoba** (September 2017 - present)  
 
-* University of Manitoba Queen Elizabeth II Entrance Scholarship - Tier 1
+* University of Manitoba Queen Elizabeth II Entrance Scholarship
 
 **Glenlawn Collegiate Institute** (September 2013 – June 2017)
 
