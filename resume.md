@@ -3,18 +3,18 @@
 anna.messejnikov@gmail.com  
 Winnipeg, MB, Canada
 
-##Technical Skills
+## Technical Skills
 * **Languages**: Java, C/C++, HTML/CSS, SQL  
 * **Operating Systems**: Linux, macOS, Windows
 
-##Soft Skills
+## Soft Skills
 * Adaptability  
 * Problem-solving  
 * Teamwork  
 * Organization  
 * Attention to detail
 
-##Education
+## Education
 **B. Sc. Bachelor of Computer Science, University of Manitoba** (September 2017 - present)  
 
 * University of Manitoba Queen Elizabeth II Entrance Scholarship - Tier 1
@@ -25,7 +25,7 @@ Winnipeg, MB, Canada
 * Academic Excellence Award – Scholarship
 * Subject Merit Award Recipient of: Physics 30S, Chemistry 30S, English Language Arts 30S
 
-##Experience
+## Experience
   
 **MicroTraffic** (September 2019 - present)  
 *Software Operator/Data Entry Specialist*  
