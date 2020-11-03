@@ -13,7 +13,7 @@ Github Pages is a service provided by Github that can be used to host a reposito
 
 To set up your static website on Github Pages:
 1. Set up a new repository by clicking on the “New” button found on the top left side of the homepage.
-2. Name the repository <username>.github.io, using your Github username for the <username> part. It is important to follow this naming convention so that Github knows you are setting up a special repository for hosting a website through Github Pages. 
+2. Name the repository \<username>.github.io, using your Github username for the \<username> part. It is important to follow this naming convention so that Github knows you are setting up a special repository for hosting a website through Github Pages. 
 3. Upload your Markdown resume file to your repository. 
 4. Rename your resume file to index.md. 
 
