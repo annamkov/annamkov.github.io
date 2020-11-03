@@ -37,7 +37,7 @@ To set up your static website on Github Pages:
 
 See also the list of
 [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+who participated in developing the README template.
 
 ## Acknowledgments
 - My COMP3040 groupmates: Ruiqi Zeng, Jaskaran Singh, and Jasdeep Singh.
