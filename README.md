@@ -35,7 +35,7 @@ To choose a Jekyll theme for your static website:
 3. Locate and click on the “Change theme” button under the Github Pages heading.
 4. Preview a theme by clicking on its thumbnail.
 5. Select a theme by clicking “Select theme”.
-6. Update the title of your website by editing the \_config.yml file that appears in your repository.
+6. In the \_config.yml file that appears in your repository, add "title:" following the title for your website.
 7. View your website at \<username>.github.io. 
 
 ## More Resources
@@ -52,7 +52,7 @@ See also the list of
 who participated in developing the README template.
 
 ## Acknowledgments
-- Andrew Etter, the author of _Modern Technical Writing_
+- Andrew Etter, the author of _Modern Technical Writing_.
 - My COMP3040 groupmates: Ruiqi Zeng, Jaskaran Singh, and Jasdeep Singh.
 
 ## FAQ
