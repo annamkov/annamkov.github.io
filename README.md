@@ -34,7 +34,7 @@ To choose a Jekyll theme for your static website:
 4. Preview a theme by clicking on its thumbnail.
 5. Select a theme by clicking “Select theme”.
 6. Update the title of your website by editing the \_config.yml file that appears in your repository.
-7. View your website at \<username>.github.io. Note that it can take some time for your changes to be reflected.
+7. View your website at \<username>.github.io. 
 
 ## More Resources
 - Markdown tutorial: https://www.markdowntutorial.com/
@@ -54,12 +54,13 @@ who participated in developing the README template.
 
 ## FAQ
 
-#### Why am I using Markdown?
-- Markdown is a simplified Markup language. It has minimal syntax and converts to HTML easily, making it a fast way to format text for the web. Markdown has less features than HTML, but is perfect for simple text documents where the more complicated features of HTML are not needed (such as this README and your resume). 
+#### 
 
-#### Why ?
-- Github Pages will search through your repository for a file under this name to use as the front page of your website.
+#### Why is my resume not showing up?
+- Make sure that the name of your resume file is index.md. Github Pages will search through your repository for a file under this name to use as the front page of your website. 
 
+#### Why is my theme not changing?
+- This is normal. It can take some time for changes to be reflected on your website.
 
 
 You can use the [editor on GitHub](https://github.com/annamkov/annamkov.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
