@@ -32,7 +32,12 @@ To set up your static website on Github Pages:
 - Andrew Etter's book: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
 ## Authors
-- 
+  - **Billie Thompson** - *Provided README Template* -
+    [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of
+[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
+who participated in this project.
 
 ## Acknowledgments
 - My COMP3040 groupmates: Ruiqi Zeng, Jaskaran Singh, and Jasdeep Singh.
