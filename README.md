@@ -14,18 +14,24 @@ Github Pages is a service provided by Github that can be used to host a reposito
 To set up your static website on Github Pages:
 1. Set up a new repository by clicking on the “New” button found on the top left side of the homepage.
 2. Name the repository \<username>.github.io, using your Github username for the \<username> part. It is important to follow this naming convention so that Github knows you are setting up a special repository for hosting a website through Github Pages. 
-3. Upload your Markdown resume file to your repository. 
-4. Rename your resume file to index.md. Github Pages will search through your repository for a file under this name to use as the front page of your website. 
 
-## Step 3: Use Jekyll to Customize your Github Pages Website
+## Step 3: Upload your Resume Formatted in Markdown to your Repository
+Markup languages are used to format content on a webpage. HTML is a well-known markup language; however, the heavy syntax often makes writing an HTML document from scratch inefficient. Markdown, on the other hand, is a simplified Markup language. It has minimal syntax and converts to HTML easily, making it a fast way to format text for the web. Markdown has less features than HTML, but is perfect for simple text documents where the more complicated features of HTML are not needed (such as this README and your resume). 
+To upload your Markdown resume file:
+1. Click on "Add File". A dropdown menu should appear. 
+2. Click on "Upload Files".
+3. Locate and upload your Markdown resume file.
+4. Rename your resume file to index.md.  
+
+## Step 4: Use Jekyll to Customize your Github Pages Website
 Github Pages comes with a static site generator called Jekyll. Jekyll takes files written in lightweight markup, runs them with a theme (templated HTML and CSS), and generates a static website with a presentable design. The great thing about static site generators like Jekyll is that they can upgrade the look of your website with barely any effort on your part. You can avoid the tedious process of writing in HTML by providing Jekyll with a file in a lightweight markup language, such as Markdown. Then, you can simply choose a theme and Jekyll will do the hard labour of adding the HTML for you.
 
 To choose a Jekyll theme for your static website:
 1. Click on Settings in your repository.
 2. Scroll down to the Github Pages heading.
 3. Locate and click on the “Change theme” button under the Github Pages heading.
-4. Preview a theme by clicking on its thumbnail 
-5. Select a theme by clicking “Select theme”
+4. Preview a theme by clicking on its thumbnail.
+5. Select a theme by clicking “Select theme”.
 6. Update the title of your website by editing the \_config.yml file that appears in your repository.
 7. View your website at <username>.github.io. Note that it can take some time for your changes to be reflected.
 
@@ -51,7 +57,7 @@ who participated in developing the README template.
 - Markdown is a simplified Markup language. It has minimal syntax and converts to HTML easily, making it a fast way to format text for the web. Markdown has less features than HTML, but is perfect for simple text documents where the more complicated features of HTML are not needed (such as this README and your resume). 
 
 #### Why ?
-- 
+- Github Pages will search through your repository for a file under this name to use as the front page of your website.
 
 
 
