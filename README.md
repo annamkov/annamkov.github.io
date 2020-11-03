@@ -15,7 +15,7 @@ To set up your static website on Github Pages:
 1. Set up a new repository by clicking on the “New” button found on the top left side of the homepage.
 2. Name the repository <username>.github.io, using your Github username for the <username> part. It is important to follow this naming convention so that Github knows you are setting up a special repository for hosting a website through Github Pages. 
 3. Upload your Markdown resume file to your repository. 
-4. Rename your resume file to index.md. Github Pages will search through your repository for a file under this name to use as the front page of your website.
+4. Rename your resume file to index.md. 
 
 ## Using Jekyll to Customize your Github Pages Website
 1. Click on Settings in your repository.
@@ -27,8 +27,12 @@ To set up your static website on Github Pages:
 7. View your website at <username>.github.io. Note that it can take some time for your changes to be reflected.
 
 ## FAQ
-#### What is Markdown?
+
+#### Why am I using Markdown?
 - Markdown is a simplified Markup language. It has minimal syntax and converts to HTML easily, making it a fast way to format text for the web. Markdown has less features than HTML, but is perfect for simple text documents where the more complicated features of HTML are not needed (such as this README and your resume). 
+
+#### Why do I rename my resume file index.md?
+- Github Pages will search through your repository for a file under this name to use as the front page of your website. 
 
 ## More Resources
 - Markdown tutorial: https://www.markdowntutorial.com/
