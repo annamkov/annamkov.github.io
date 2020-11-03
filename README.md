@@ -9,7 +9,7 @@ This README will teach you how to host your resume as a website through Github P
 You will use Github to store the files required to host your website, most notably the Markdown file you created of your resume. Why Github? Github is a version control system, which means that it keeps track of changes made to files and maintains a record of all previous versions. The files in your repository will always be up-to-date, a benefit which can be contrasted with having to open several PDFs with similar names to determine which file is the latest version. With changes being recoverable and latest versions being easily accessible, Github makes for a seamless collaborative environment used by many developers. 
 
 ## Step 2: Set up a Repository for Github Pages
-Github Pages is a service provided by Github that can be used to host a repository as a static website. Etter praises static websites for their speed, simplicity, portability, and security. Static sites load faster than dynamic sites because there are no server-side application dependencies and no databases to interact with before displaying content. Static sites simply deliver the same HTML for every visitor on the page instead of generating content on the fly. Having no databases also makes migrating a static site to another system incredibly easy. Lastly, static sites are secure from malicious activity because there are no databases to steal information from. 
+Github Pages is a service provided by Github that can be used to host your repository as a static website. Etter praises static websites for their speed, simplicity, portability, and security. Static sites load faster than dynamic sites because there are no server-side application dependencies and no databases to interact with before displaying content. Static sites simply deliver the same HTML for every visitor on the page instead of generating content on the fly. Having no databases also makes migrating a static site to another system incredibly easy. Lastly, static sites are secure from malicious activity because there are no databases to steal information from. 
 
 To set up your static website on Github Pages:
 1. Set up a new repository by clicking on the “New” button found on the top left side of the homepage.
@@ -17,6 +17,7 @@ To set up your static website on Github Pages:
 
 ## Step 3: Upload your Resume Formatted in Markdown to your Repository
 Markup languages are used to format content on a webpage. HTML is a well-known markup language; however, the heavy syntax often makes writing an HTML document from scratch inefficient. Markdown, on the other hand, is a simplified Markup language. It has minimal syntax and converts to HTML easily, making it a fast way to format text for the web. Markdown has less features than HTML, but is perfect for simple text documents where the more complicated features of HTML are not needed (such as this README and your resume). 
+
 To upload your Markdown resume file:
 1. Click on "Add File". A dropdown menu should appear. 
 2. Click on "Upload Files".
