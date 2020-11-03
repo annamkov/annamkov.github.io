@@ -52,6 +52,7 @@ See also the list of
 who participated in developing the README template.
 
 ## Acknowledgments
+- Andrew Etter, the author of _Modern Technical Writing_
 - My COMP3040 groupmates: Ruiqi Zeng, Jaskaran Singh, and Jasdeep Singh.
 
 ## FAQ
