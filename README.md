@@ -26,6 +26,17 @@ To set up your static website on Github Pages:
 6. Update the title of your website by editing the \_config.yml file that appears in your repository.
 7. View your website at <username>.github.io. Note that it can take some time for your changes to be reflected.
 
+## More Resources
+- Markdown tutorial: https://www.markdowntutorial.com/
+- Markdown text editors, listed by OS: https://www.oberlo.ca/blog/markdown-editors
+- Andrew Etter's book: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
+
+## Authors
+- 
+
+## Acknowledgments
+- My COMP3040 groupmates: Ruiqi Zeng, Jaskaran Singh, and Jasdeep Singh.
+
 ## FAQ
 
 #### Why am I using Markdown?
@@ -34,10 +45,7 @@ To set up your static website on Github Pages:
 #### Why do I rename my resume file index.md?
 - Github Pages will search through your repository for a file under this name to use as the front page of your website. 
 
-## More Resources
-- Markdown tutorial: https://www.markdowntutorial.com/
-- Markdown text editors, listed by OS: https://www.oberlo.ca/blog/markdown-editors
-- Andrew Etter's book: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
+
 
 You can use the [editor on GitHub](https://github.com/annamkov/annamkov.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
