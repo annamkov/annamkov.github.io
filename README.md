@@ -5,6 +5,8 @@ This README will teach you how to host your resume as a website through Github P
 
 **Prerequisite:** A resume formatted in Markdown.
 
+![screenshot](https://media3.giphy.com/media/wkwZ2ffx6dHOlZMwJ1/giphy.gif)
+
 ## Step 1: Register for Github
 You will use Github to store the files required to host your website, most notably the Markdown file you created of your resume. Why Github? Github is a version control system, which means that it keeps track of changes made to files and maintains a record of all previous versions. The files in your repository will always be up-to-date, a benefit which can be contrasted with having to open several PDFs with similar names to determine which file is the latest version. With changes being recoverable and latest versions being easily accessible, Github makes for a seamless collaborative environment used by many developers. 
 
