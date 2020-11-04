@@ -1,7 +1,7 @@
 # How to Host your Resume on Github Pages
 
 ## Intro
-This README will teach you how to host your resume as a website through Github Pages. It will simultaneously cover strategies for achieving great documentation described in Andrew Etter’s book, _Modern Technical Writing_. These strategies will likely be applicable in your future work and knowledge of them will therefore be valuable to showcase in your interviews.
+This README will teach you how to host your resume as a website through Github Pages, and it will also outline strategies for achieving great documentation described in Andrew Etter’s book, _Modern Technical Writing_. These strategies will likely be applicable in your future work and knowledge of them will therefore be valuable to showcase in your interviews.
 
 **Prerequisite:** A resume formatted in Markdown.
 
