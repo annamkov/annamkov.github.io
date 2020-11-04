@@ -68,7 +68,7 @@ who participated in developing the README template.
 ## FAQ
 
 #### Why is Markdown better than a word processor such as Microsoft Word?
-- Microsoft Word is restricted to macOS and Windows, whereas the plain text files used for Markdown are supported across all operating systems. Word must also be purchased, whereas plenty of free text editors exist for Markdown.
+- Microsoft Word is restricted to macOS and Windows, whereas the plain text files used for Markdown are supported across all operating systems. Word must also be purchased, whereas plenty of free text editors exist for Markdown. 
 
 #### Why is my theme not changing?
 - This is normal. It can take up to 10 minutes for changes to be reflected on a new Github Pages website. 
