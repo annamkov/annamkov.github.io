@@ -10,7 +10,7 @@ Github is a website used to store files. The files for a project are stored in w
 - Register on [github.com](github.com)
 
 ## Step 2: Set up a Repository for Github Pages
-Github Pages is a service provided by Github that can be used to host your repository as a static website. Etter praises static websites for their speed, simplicity, portability, and security. Static sites load faster than dynamic sites because there are no server-side application dependencies, and no databases to interact with before displaying content. Static sites simply deliver the same HTML for every visitor on the page instead of generating content on the fly. Having no databases also makes migrating a static site to another system incredibly easy. Lastly, static sites are protected from malicious activity because there are no databases to steal information from. 
+Github Pages is a service provided by Github that can be used to host your repository as a static website. Etter praises static websites for their speed, simplicity, portability, and security. Static sites load faster than dynamic sites because there are no server-side application dependencies, and no databases to interact with before displaying content. Static sites simply deliver the same HTML for every visitor on the page instead of generating content on the fly. Having no databases also makes migrating a static site to another system incredibly easy. Lastly, static sites are protected from malicious activity because there are no databases to steal information from. All of this makes static websites great for hosting documentation.
 
 To set up your static website on Github Pages:
 1. Set up a new repository by clicking on the “New” button found on the top left side of the homepage.
