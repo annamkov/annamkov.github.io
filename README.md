@@ -42,8 +42,11 @@ To change the title of your website:
 6. Add `title: <yourtitle>`, where \<yourtitle> is a title of your choice. 
 2. View your changes at **\<username>.github.io**
 
-There you go! You should now have your resume hosted through Github Pages, such as the one below.
+
+There you go! You should now have your resume hosted through Github Pages, such as the one below:
+
 ![screenshot](https://media3.giphy.com/media/wkwZ2ffx6dHOlZMwJ1/giphy.gif)
+
 
 ## More Resources
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
