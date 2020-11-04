@@ -39,9 +39,9 @@ To choose a Jekyll theme for your static website:
 7. View your website at \<username>.github.io. 
 
 ## More Resources
-- Markdown tutorial: https://www.markdowntutorial.com/
-- Markdown text editors, listed by OS: https://www.oberlo.ca/blog/markdown-editors
-- Andrew Etter's book: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [Markdown text editors, listed by OS](https://www.oberlo.ca/blog/markdown-editors)
+- [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors
 - **Billie Thompson** - *Provided README Template* -
