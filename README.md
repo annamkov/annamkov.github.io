@@ -5,8 +5,6 @@ This README will teach you how to host your resume as a website through Github P
 
 **Prerequisite:** A resume formatted in Markdown. See the More Resources section of this README for a link to a Markdown tutorial. 
 
-![screenshot](https://media3.giphy.com/media/wkwZ2ffx6dHOlZMwJ1/giphy.gif)
-
 ## Step 1: Register for Github
 Github is a website used to store files. The files for a project are stored in what is called a repository. You will use Github to store the files required to host your website. Why use Github? Github is a version control system, which means that it keeps track of changes made to files and maintains a record of all previous versions. The content in your repository will always be up-to-date and easy to manage because you will not have to keep manual track of files. Github also makes for a seamless collaborative environment. The official, up-to-date version of a project is placed in a master branch, and each user that wants to makes changes works on a copy of the master in a new, separate branch. This way, multiple users can independently edit files at the same time, and Github will take care of merging the changes to the master branch.
 - Register on [github.com](github.com)
@@ -43,7 +41,9 @@ To change the title of your website:
 1. Edit the **\_config.yml** file by clicking on the pencil icon.
 6. Add `title: <yourtitle>`, where \<yourtitle> is a title of your choice. 
 2. View your changes at **\<username>.github.io**
-    
+
+There you go! You should now have your resume hosted through Github Pages, such as the one below.
+![screenshot](https://media3.giphy.com/media/wkwZ2ffx6dHOlZMwJ1/giphy.gif)
 
 ## More Resources
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
@@ -67,8 +67,5 @@ who participated in developing the README template.
 #### Why is Markdown better than a word processor such as Microsoft Word?
 - Microsoft Word is restricted to macOS and Windows, whereas the plain text files used for Markdown are supported across all operating systems. Word must also be purchased, whereas plenty of free text editors exist for Markdown.
 
-#### Why is my resume not showing up?
-- Make sure that the name of your resume file is index.md. Github Pages will search through your repository for a file under this name to use as the front page of your website. 
-
 #### Why is my theme not changing?
-- This is normal. It can take some time for changes to be reflected on your website.
+- This is normal. It can take up to 10 minutes for changes to be reflected on a new Github Pages website. 
